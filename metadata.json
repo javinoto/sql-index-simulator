@@ -1,0 +1,5 @@
+{
+  "name": "SQL Index Simulator",
+  "description": "An interactive educational tool simulating how SQL database indexes work, comparing Full Table Scans vs. Index Seeks with step-by-step visualization.",
+  "requestFramePermissions": []
+}
